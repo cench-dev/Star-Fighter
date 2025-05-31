@@ -13,7 +13,7 @@
    - Распакуйте архив в любую папку
 
 2. Запуск exe-файла  
-   - перейдите по следующему пути: StarFighter\bin\Debug\net8.0-windows
+   - Перейдите по следующему пути: StarFighter\bin\Debug\net8.0-windows
    - Запустите файл StarFighter
 
 
