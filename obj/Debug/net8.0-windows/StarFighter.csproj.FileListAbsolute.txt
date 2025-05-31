@@ -1,0 +1,16 @@
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.MainForm.resources
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.csproj.GenerateResource.cache
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.AssemblyInfoInputs.cache
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.AssemblyInfo.cs
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.csproj.CoreCompileInputs.cache
+C:\Users\joyst\source\repos\StarFighter\bin\Debug\net8.0-windows\StarFighter.exe
+C:\Users\joyst\source\repos\StarFighter\bin\Debug\net8.0-windows\StarFighter.deps.json
+C:\Users\joyst\source\repos\StarFighter\bin\Debug\net8.0-windows\StarFighter.runtimeconfig.json
+C:\Users\joyst\source\repos\StarFighter\bin\Debug\net8.0-windows\StarFighter.dll
+C:\Users\joyst\source\repos\StarFighter\bin\Debug\net8.0-windows\StarFighter.pdb
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.dll
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\refint\StarFighter.dll
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.pdb
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\StarFighter.genruntimeconfig.cache
+C:\Users\joyst\source\repos\StarFighter\obj\Debug\net8.0-windows\ref\StarFighter.dll
